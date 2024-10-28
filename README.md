@@ -1,4 +1,5 @@
-# (WIP) hexed
+# hexed
+## (WIP)
 A hexagonal keyboard layout based on noted/neo
 ![hexed layout overview](hexed2.png?raw=true)
 ## Features
