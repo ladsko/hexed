@@ -2,6 +2,9 @@
 ## (WIP)
 A hexagonal keyboard layout based on noted/neo
 ![hexed layout overview](hexed2.png?raw=true)
+
+You can have a closer look here: [3D model viewer](hexed.html)
+
 ## Features
 - Hexagonal keys with angled home row keys (S I E, T N R)
 - Stepped rows for better haptics (less fat-fingering on a smaller footprint)
@@ -11,8 +14,6 @@ A hexagonal keyboard layout based on noted/neo
 - Generated with a FreeCAD macro and a spreadsheet for fast iterations
 - Designed for Kailh Choc v1 switches
 
-
-You can have a closer look here: [3D model viewer](hexed.html)
 
 For my first key cap prototypes I used an FDM printer and encased a piece of paper with resin:
 
