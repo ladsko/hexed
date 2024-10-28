@@ -10,11 +10,11 @@
 - Generated with a FreeCAD macro and a spreadsheet for fast iterations
 - Designed for Kailh Choc v1 switches
 
-```html
+
 <model-viewer src="hexed.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" exposure="0.76" camera-orbit="-54.42deg 56.58deg 0.6777m" field-of-view="25.56deg"></model-viewer>  
 <script src="script.js"></script>
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
-```
+
 
 ![hexed layout overview](hexed3.jpg?raw=true)
 
