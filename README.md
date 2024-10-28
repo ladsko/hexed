@@ -19,6 +19,7 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 ![hexed layout overview](hexed3.jpg?raw=true)
 
 ## Row 1
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |Esc    |     |   |   |       |Escape           |
@@ -31,7 +32,9 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |j      |J    |≥  |F12|iota   |Function 11      |
 |´      |`    |≠  |⏻  |       |On / Off         |
 |⎙      |     |   |   |       |Print Screen     |
+
 ## Row 2
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |↹      |     |   |   |       |Left Tab         |
@@ -48,7 +51,9 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |ß      |ẞ    |√  |🔆 |theta  |Brighter         |
 |⇧      |     |   |   |       |Right Shift      |
 |↹      |     |   |   |       |Right Tab        |
+
 ## Row 3
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |Num    |     |   |   |       |Left Numbers     |
@@ -64,7 +69,9 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |@      |§    |≈  |🌗 |       |Darker           |
 |Nav    |     |   |   |       |Right Navigation |
 |Num    |     |   |   |       |Right Numbers    |
+
 ## Row 4
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |Ctrl   |     |   |   |       |Left Control     |
@@ -77,7 +84,9 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |k      |K    |÷  |⇟  |kappa  |Page Down        |
 |%      |#    |%  |↨  |       |Scroll Lock      |
 |Ctrl   |     |   |   |       |Right Control    |
+
 ## Row 5
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |„      |'    |„  |⏪  |       |Fast Backward    |
@@ -87,7 +96,9 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |-      |_    |-  |⏹  |       |Stop             |
 |,      |;    |,  |⏭  |       |Next Track       |
 |.      |:    |.  |⏩  |       |Fast Forward     |
+
 ## Row 6
+
 |Default|Shift|Num|Nav|Greek  |Key Name  |
 |-------|-----|---|---|-------|-----------------|
 |🐧     |     |   |   |       |System           |
@@ -98,12 +109,15 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |␣      |     |   |   |       |Right Space      |
 |Alt    |     |   |   |       |Right Alt        |
 |🏛     |     |   |   |       |Greek            |
+
 ## Row 7
+
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |⏎      |     |   |   |       |Left Enter       |
 |⮁      |     |   |   |       |Toggle           |
 |⏎      |     |   |   |       |Right Enter      |
+
 
 
 
