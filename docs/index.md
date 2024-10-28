@@ -10,8 +10,7 @@
 - Generated with a FreeCAD macro and a spreadsheet for fast iterations
 - Designed for Kailh Choc v1 switches
 
-
-[model viewer](index.html)
+You can have a closer look here: [3D Model Viewer](hexed.html)
 
 
 ![hexed layout overview](hexed3.jpg?raw=true)
