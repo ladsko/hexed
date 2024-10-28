@@ -11,7 +11,7 @@
 - Designed for Kailh Choc v1 switches
 
 
-![model viewer](hexed.html)
+[model viewer](hexed.html)
 
 
 ![hexed layout overview](hexed3.jpg?raw=true)
