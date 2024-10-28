@@ -15,5 +15,6 @@ A hexagonal keyboard layout based on noted/neo
 You can have a closer look here: [3D model viewer](hexed.html)
 
 For my first key cap prototypes I used an FDM printer and encased a piece of paper with resin:
+
 ![hexed layout overview](hexed3.jpg?raw=true)
 
