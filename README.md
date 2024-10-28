@@ -1,5 +1,5 @@
-# hexed
-(WIP) A hexagonal keyboard layout based on noted/neo
+# (WIP) hexed
+A hexagonal keyboard layout based on noted/neo
 ![hexed layout overview](hexed2.png?raw=true)
 ## Features
 - Hexagonal keys with angled home row keys (S I E, T N R)
