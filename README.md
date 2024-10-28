@@ -1,6 +1,6 @@
 # hexed
 (WIP) A hexagonal keyboard layout based on noted/neo
-![hexed layout overview](hexed2.png?raw=true)
+![hexed layout overview](docs/hexed2.png?raw=true)
 ## Features
 - Hexagonal keys with angled home row keys (S I E, T N R)
 - Stepped rows for better haptics (less fat-fingering on a smaller footprint)
@@ -11,8 +11,8 @@
 - Designed for Kailh Choc v1 switches
 
 
-[model viewer](hexed.html)
+[model viewer](docs/hexed.html)
 
 
-![hexed layout overview](hexed3.jpg?raw=true)
+![hexed layout overview](docs/hexed3.jpg?raw=true)
 
