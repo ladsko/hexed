@@ -25,7 +25,7 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |Default|Shift|Num|Nav|Greek  |Key Name         |
 |-------|-----|---|---|-------|-----------------|
 |Esc    |     |   |   |       |Escape           |
-|^      |°    |^  |   |       |Home             |
+|^      |°    |^  |Home|       |Home            |
 |z      |Z    |1  |F1 |zeta   |Function 1       |
 |y      |Y    |2  |F2 |upsilon|Function 2       |
 |u      |U    |3  |F3 |upsilon|Function 3       |
