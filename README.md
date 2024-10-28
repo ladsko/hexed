@@ -87,7 +87,8 @@ For my first key cap prototypes I used an FDM printer and encased a piece of pap
 |-      |_    |-  |⏹  |       |Stop             |
 |,      |;    |,  |⏭  |       |Next Track       |
 |.      |:    |.  |⏩  |       |Fast Forward     |
-## Row 6|Default|Shift|Num|Nav|Greek  |Key Name  |
+## Row 6
+|Default|Shift|Num|Nav|Greek  |Key Name  |
 |-------|-----|---|---|-------|-----------------|
 |🐧     |     |   |   |       |System           |
 |Alt    |     |   |   |       |Left Alt         |
